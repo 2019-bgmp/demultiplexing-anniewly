@@ -1,0 +1,29 @@
+1. 
+The total amount of reads that are hopped is 2633716.
+The total amount of reads that are unknown or have low quality is 174995676. 
+
+Since my program did not run properly, I used wc -l command on talapas and save the lines to a file ("matched_R1.txt"). Then I used the python script ("matched_percentage.py") to get these results below.
+The percentage of AACAGCGA is 2.71
+The percentage of ACGATCAG is 2.44
+The percentage of AGAGTCCA is 3.46
+The percentage of AGGATAGC is 2.62
+The percentage of ATCATGCG is 3.09
+The percentage of ATCGTGGT is 2.07
+The percentage of CACTTCAC is 1.27
+The percentage of CGATCGAT is 1.73
+The percentage of CGGTAATC is 1.47
+The percentage of CTAGCTCA is 5.31
+The percentage of CTCTGGAT is 10.48
+The percentage of GATCAAGG is 1.94
+The percentage of GATCTTGC is 1.10
+The percentage of GCTACTCT is 2.22
+The percentage of GTAGCGTA is 2.39
+The percentage of GTCCTAAG is 2.67
+The percentage of TACCGGAT is 22.94
+The percentage of TAGCCATG is 3.18
+The percentage of TATGGCAC is 3.39
+The percentage of TCGACAAG is 1.17
+The percentage of TCGAGAGT is 3.51
+The percentage of TCGGATTC is 1.38
+The percentage of TCTTCGAC is 12.64
+The percentage of TGTTCCGT is 4.82
